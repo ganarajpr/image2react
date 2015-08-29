@@ -1,0 +1,29 @@
+{
+  "name": "image2react",
+  "main": "./lib/image2react",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/atom/image2react",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.1.0",
+    "event-kit": ">= 0.7.2",
+    "fs-plus": "^2.8.1",
+    "pathwatcher": "^4.2.0",
+    "react-for-atom": "^0.13.6",
+    "underscore-plus": "^1.6.6"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^0.2.5"
+  }
+}
