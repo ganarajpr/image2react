@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.1.0",
+    "emptyfunction": "0.0.0",
     "event-kit": ">= 0.7.2",
     "fs-plus": "^2.8.1",
     "pathwatcher": "^4.2.0",
