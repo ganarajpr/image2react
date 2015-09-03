@@ -1,7 +1,7 @@
 {
   "name": "image2react",
   "main": "./lib/image2react",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Draw on image plugin for atom using react and babel",
   "repository": "https://github.com/ganarajpr/image2react",
   "license": "MIT",
