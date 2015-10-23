@@ -4,6 +4,7 @@
 var typeToComponent = [
     getText,
     getImage,
+    getButton,
     getTextInput,
     getDropdown,
     getDatePicker,
