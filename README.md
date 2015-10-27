@@ -1,5 +1,5 @@
 # image2react package
 
-An Atom plugin for drawing on images written using React and Babel. 
+An Atom plugin for drawing on images written using React and Babel.
 
-![A screenshot of your spankin' package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+[![AI Assisted way of generating components](http://img.youtube.com/vi/_iiKl0BB6ho/0.jpg)](http://www.youtube.com/watch?v=_iiKl0BB6ho)
